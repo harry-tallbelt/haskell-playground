@@ -1,3 +1,3 @@
 module Test where
 
-sayHello = putStrLn "Hello!"
+sayHello = putStrLn "Hello, world!"
